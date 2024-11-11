@@ -16,3 +16,6 @@ echo "mergeconflittest"
 
 sudo apt update
 sudo apt install -y appache2
+
+
+echo "yo man"
