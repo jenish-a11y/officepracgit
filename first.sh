@@ -9,6 +9,7 @@ echo "man or women"
 
 echo "sonom"
 
+
 echo "done mine me"
 
 echo "mergeconflittest"
@@ -19,3 +20,6 @@ sudo apt install -y appache2
 
 
 echo "yo man"
+
+echo " remote added packages"
+
