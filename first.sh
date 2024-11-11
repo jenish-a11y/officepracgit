@@ -8,3 +8,7 @@ echo "man or women"
 
 
 echo "sonom"
+
+echo "done mine me"
+
+
