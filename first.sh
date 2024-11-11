@@ -8,3 +8,4 @@ echo "man or women"
 
 
 echo "sonom"
+echo " remote added packages"
