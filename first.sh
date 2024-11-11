@@ -23,3 +23,4 @@ echo "yo man"
 
 echo " remote added packages"
 
+echo " some changes into git stash"
