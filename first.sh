@@ -23,4 +23,3 @@ echo "yo man"
 
 echo " remote added packages"
 
-echo "quick fix"
